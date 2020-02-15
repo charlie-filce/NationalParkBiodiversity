@@ -1,0 +1,43 @@
+Park.Code,Park.Name,State,Acres,Latitude,Longitude,speciesCount,mammalCount,birdCount,reptileCount,amphibianCount,fishCount,vascularplantCount,spiderCount,insectCount,invertebrateCount,fungiCount,nonvascularplantCount,crustaceanCount,slugCount,algaeCount
+HALE,Haleakala National Park,HI,29094,20.72,-156.17,2580,15,44,10,3,6,1000,46,1061,37,66,227,18,47,0
+PINN,Pinnacles National Park,CA,26606,36.48,-121.16,1416,60,170,29,10,6,731,10,323,31,27,0,8,11,0
+GRCA,Grand Canyon National Park,AZ,1217403,36.06,-112.14,2622,106,456,76,15,29,1738,142,57,1,0,0,0,2,0
+GRBA,Great Basin National Park,NV,77180,38.98,-114.3,2653,103,330,58,22,21,1549,18,456,29,15,16,6,30,0
+GRSA,Great Sand Dunes National Park and Preserve,CO,42984,37.73,-105.51,952,68,240,8,6,6,622,0,1,0,0,1,0,0,0
+ACAD,Acadia National Park,ME,47390,44.35,-68.21,1709,55,364,11,15,38,1226,0,0,0,0,0,0,0,0
+DRTO,Dry Tortugas National Park,FL,64701,24.63,-82.87,848,6,283,5,0,281,231,0,0,42,0,0,0,0,0
+LACL,Lake Clark National Park and Preserve,AK,2619733,60.97,-153.42,2007,50,193,0,1,55,1197,0,3,6,220,281,1,0,0
+OLYM,Olympic National Park,WA,922651,47.97,-123.5,1948,80,310,6,16,97,1352,0,87,0,0,0,0,0,0
+BLCA,Black Canyon of the Gunnison National Park,CO,32950,38.57,-107.72,1106,67,175,11,2,16,835,0,0,0,0,0,0,0,0
+REDW,Redwood National Park,CA,112512,41.3,-124,6310,154,501,39,33,247,2257,7,744,334,1363,251,122,147,111
+CANY,Canyonlands National Park,UT,337598,38.2,-109.93,1223,76,220,22,7,33,865,0,0,0,0,0,0,0,0
+SEKI,Sequoia and Kings Canyon National Parks,CA,865952,36.43,-118.68,1995,89,220,24,13,19,1630,0,0,0,0,0,0,0,0
+DEVA,Death Valley National Park,CA, NV,4740912,36.24,-116.82,4439,212,531,90,71,9,2258,32,903,18,123,22,38,72,60
+HAVO,Hawaii Volcanoes National Park,HI,323431,19.38,-155.2,3298,15,78,13,4,4,1212,101,1429,173,7,135,56,71,0
+KEFJ,Kenai Fjords National Park,AK,669983,59.92,-149.65,1057,55,235,0,1,42,673,0,3,42,2,0,0,4,0
+BADL,Badlands National Park,SD,242756,43.75,-102.5,1389,64,239,13,10,24,625,1,239,1,173,0,0,0,0
+ARCH,Arches National Park,UT,76519,38.68,-109.57,1048,59,205,20,8,11,745,0,0,0,0,0,0,0,0
+YOSE,Yosemite National Park,CA,761266,37.83,-119.5,2088,88,270,22,15,10,1683,0,0,0,0,0,0,0,0
+BIBE,Big Bend National Park,TX,801163,29.25,-103.25,2269,89,415,62,13,53,1589,0,0,0,0,48,0,0,0
+CUVA,Cuyahoga Valley National Park,OH,32950,41.24,-81.55,1941,47,246,23,24,85,1239,2,227,25,0,0,8,15,0
+SHEN,Shenandoah National Park,VA,199045,38.53,-78.35,4655,63,268,38,40,41,2761,4,318,2,765,350,3,2,0
+CONG,Congaree National Park,SC,26546,33.78,-80.78,2321,39,200,50,43,65,884,21,617,15,279,7,6,21,74
+KOVA,Kobuk Valley National Park,AK,1750717,67.55,-159.28,1025,38,125,0,1,26,476,0,0,0,333,26,0,0,0
+BRCA,Bryce Canyon National Park,UT,35835,37.57,-112.18,1286,76,217,13,4,1,975,0,0,0,0,0,0,0,0
+GLAC,Glacier National Park,MT,1013572,48.8,-114,2556,69,277,4,6,27,1266,0,197,2,276,404,6,20,2
+EVER,Everglades National Park,FL,1508538,25.32,-80.93,2084,42,370,61,17,426,1168,0,0,0,0,0,0,0,0
+ISRO,Isle Royale National Park,MI,571790,48.1,-88.55,1397,26,261,5,13,63,993,0,0,21,0,1,14,0,0
+GLBA,Glacier Bay National Park and Preserve,AK,3224840,58.5,-137,1957,58,258,3,5,359,822,3,35,117,2,98,96,37,64
+MACA,Mammoth Cave National Park,KY,52830,37.18,-86.1,2499,56,210,42,33,122,1708,2,270,54,0,1,1,0,0
+PEFO,Petrified Forest National Park,AZ,93533,35.07,-109.78,853,62,244,21,8,0,516,0,0,0,1,1,0,0,0
+NOCA,North Cascades National Park,WA,504781,48.7,-121.2,3363,79,226,10,12,33,1478,42,559,0,539,385,0,0,0
+WRST,Wrangell - St Elias National Park and Preserve,AK,8323148,61,-142,1796,62,211,1,2,93,1357,0,58,4,0,7,0,1,0
+HOSP,Hot Springs National Park,AR,5550,34.51,-93.05,1950,52,387,52,27,90,1252,0,15,22,0,18,9,2,24
+CAVE,Carlsbad Caverns National Park,NM,46766,32.17,-104.44,1536,92,367,62,15,5,995,0,0,0,0,0,0,0,0
+SAGU,Saguaro National Park,AZ,91440,32.25,-110.5,1834,102,246,62,10,0,1411,0,0,0,2,0,1,0,0
+DENA,Denali National Park and Preserve,AK,3372402,63.33,-150.5,1320,43,179,0,1,14,841,0,51,3,29,159,0,0,0
+CHIS,Channel Islands National Park,CA,249561,34.01,-119.42,1885,44,357,11,4,273,824,1,2,196,0,68,11,33,61
+CRLA,Crater Lake National Park,OR,183224,42.94,-122.1,3760,96,252,20,20,13,1628,17,994,68,192,193,40,9,218
+YELL,Yellowstone National Park,WY, MT, ID,2219791,44.6,-110.5,3966,78,330,9,9,19,1420,43,1628,78,11,15,63,59,204
+GRTE,Grand Teton National Park,WY,309995,43.73,-110.8,2030,74,266,5,7,21,1463,1,154,5,28,0,1,4,1
+THRO,Theodore Roosevelt National Park,ND,70447,46.97,-103.45,1165,66,223,13,8,32,680,2,73,3,1,61,1,2,0
